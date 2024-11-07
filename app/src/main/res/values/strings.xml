@@ -6,5 +6,6 @@
     <string name="label_value">R$ 0,00</string>
     <string name="label_date">dd/mm/yyyy hh:mm:ss</string>
 
+
     <string name="label_refresh">Atualizar</string>
 </resources>
